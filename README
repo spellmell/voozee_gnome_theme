@@ -1,0 +1,56 @@
+/* Voozee theme for Gnome 42.*^
+# Version: 1.0.1
+# Customization by Spellmell
+# spellmell.github.io
+# spellmell@protonmail.com
+# 7/25/2022
+# https://github.com/spellmell/voozee_gnome_theme
+*/
+
+Este theme fue creado a partir del theme default de gnome 42 para fedora.
+Lo he probado en gentoo con gnome 40, y si bien es utilizable,
+muchos elementos no se ajustan al diseño establecido.
+Si tu versión de gnome es inferior a la 42, recomendaría actualizarlo.
+
+Dependencias:
+Para facilitar el cambio entre las diferentes variaciones de color y la ubicación de algunos elementos,
+he utilizado las extensiones: User Themes y Just Perfection.
+Estas se instalarán automáticamente al ejecutar el script install.sh,
+pero este es un script muy básico que no detecta la versión de gnome en el sistema,
+y descarga las versiones más recientes para gnome 42. 
+Si tu versión de gnome es diferente se generarán conflictos
+y deberás instalar tú mismo las extensiones desde la página web de gnome extensions.
+Intentaré mejorar el script próximamente para solucionarlo.
+
+Problemas conocidos:
+Me he percatado de que al bloquear el equipo,
+la barra del panel aumenta el tamaño de su altura sin ningún motivo,
+y que a veces al cambiar de theme con otros themes y volver a aplicarlo
+pueden pasar cosas similares o posicionar mal el panel.
+No tengo idea de porque sucede.
+La solución es alt+f2 y dar r + enter para reiniciar gnome.
+
+---
+
+This theme was created from the default gnome 42 theme for fedora.
+I have tested it in gentoo with gnome 40, and although it is usable,
+many elements do not conform to the default design.
+If your version of gnome is lower than 42, I would recommend upgrading.
+
+Dependencies:
+To make it easier to switch between different color variations and placement of some elements,
+I have used the extensions: User Themes and Just Perfection.
+These will install automatically when you run the install.sh script,
+but this is a very basic script that does not detect the version of gnome on the system,
+and downloads the latest versions for gnome 42. 
+If your version of gnome is different it will generate conflicts
+and you will have to install the extensions yourself from the gnome extensions web page.
+I will try to improve the script soon to fix this.
+
+Known problems:
+I have noticed that when locking the computer,
+the panel bar increases the size of its height for no reason,
+and that sometimes when changing the theme with other themes and reapplying it, similar things can happen
+similar things can happen or wrong positioning of the panel.
+I have no idea why it happens.
+The solution is alt+f2 and hit r + enter to restart gnome.
