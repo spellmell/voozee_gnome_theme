@@ -842,19 +842,19 @@ StWidget.focused .app-well-app-running-dot {
   margin: 15px;
 }
 
-.modal-dialog-linked-button:last-child {
-  color: rgba(0, 0, 0, 0.87);
+.modal-dialog-linked-button:last-child { /* boton confirmar apagar */
+  color: rgba(253, 245, 230, 0.54);
   background-color: rgba(72, 61, 139, 1);
 }
 
 .modal-dialog-linked-button:hover:last-child {
-  color: rgba(0, 0, 0, 0.87);
-  background-color: rgba(72, 61, 139, 1);
+  color: rgba(253, 245, 230, 0.54);
+  background-color: darkorange;
 }
 
 .modal-dialog-linked-button:active:last-child {
-  color: rgba(0, 0, 0, 0.87);
-  background-color: rgba(72, 61, 139, 1);
+  color: rgba(253, 245, 230, 0.54);
+  background-color: darkorange;
 }
 
 .modal-dialog-linked-button:insensitive:last-child {

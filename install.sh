@@ -12,7 +12,7 @@ ROUTE=~/.themes
 FONTROUTE=~/.local/share/fonts
 FONTNAME="Ubuntu"
 EXTWL="https://extensions.gnome.org/extension-data"
-EXTUL=("user-themegnome-shell-extensions.gcampax.github.com.v49" "just-perfection-desktopjust-perfection.v21")
+EXTUL=("extension-listtu.berry.v30" "user-themegnome-shell-extensions.gcampax.github.com.v49" "just-perfection-desktopjust-perfection.v21")
 
 # font instalation
 if [ ! -d /usr/share/fonts/$FONTNAME ];
