@@ -44,8 +44,8 @@ stage {
   width: 48px;
   height: 48px;
   border-radius: 72px;
-  background-color: rgba(30, 144, 255, 0.75);
-  box-shadow: 0 0 6px rgba(33, 33, 33, 0.54); /* #21212133 */
+  background-color: rgba(30, 144, 255, 0.36);
+  box-shadow: 0 0 6px rgba(33, 33, 33, 0.18); /* #21212133 */
 }
 
 .pie-timer {
@@ -217,11 +217,12 @@ stage {
   height: 620px;
 }
 
-.app-well-app-running-dot {
-  width: 6px;
-  height: 3px;
-  border-radius: 6px;
-  background-color: brown;
+.app-well-app-running-dot { /* puntos de aplicaciones abiertas en el dock */
+  width: 2px;
+  height: 2px;
+  padding: 1px;
+  border-radius: 50%;
+  background-color: dodgerblue;
   margin-bottom: 0;
 }
 
@@ -2804,15 +2805,15 @@ StEntry StLabel.hint-text,
 }
 
 .popup-menu .popup-sub-menu .popup-menu-item:insensitive {
-  /* color: rgba(217, 224, 238, 0.3) !important; */
+  color: rgba(253, 245, 230, 0.36) !important;
 }
 
 .popup-menu .popup-inactive-menu-item {
-  /* color: rgba(217, 224, 238, 0.7) !important; */
+  color: rgba(253, 245, 230, 0.72) !important;
 }
 
 .popup-menu .popup-inactive-menu-item:insensitive {
-  /* color: rgba(217, 224, 238, 0.3) !important; */
+  color: rgba(253, 245, 230, 0.36) !important;
 }
 
 .popup-menu.panel-menu {
