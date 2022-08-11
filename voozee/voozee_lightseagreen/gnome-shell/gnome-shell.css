@@ -144,7 +144,7 @@ stage {
   border: solid 3px rgba(253, 245, 230, 0.54);
   border-radius: 18px 6px 12px 6px;
   box-shadow: 0 0 6px rgba(33, 33, 33, 0.54); /* #21212133 */
-  background-image: url('gradient_bg.svg');
+  background-image: url('assets/grad_bg.svg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2400,6 +2400,10 @@ StEntry StLabel.hint-text,
   text-shadow: none;
   /* border: solid 2px rgba(253, 245, 230, 0.18); */
   background-color: rgba(32, 178, 170, 1);
+  background-image: url('assets/grad_btn.svg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #panel .panel-button.clock-display .clock {
@@ -3419,7 +3423,7 @@ StScrollBar StButton#hhandle:active {
 #overviewGroup {
   color: rgba(253, 245, 230, 0.54);
   background-color: rgba(32, 178, 170, 1); /* color de fondo del panel de actividades */
-  background-image: url('gradient_bg.svg');
+  background-image: url('assets/grad_bg.svg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
