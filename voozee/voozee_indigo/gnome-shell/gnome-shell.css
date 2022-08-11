@@ -144,6 +144,10 @@ stage {
   border: solid 3px rgba(253, 245, 230, 0.54);
   border-radius: 18px 6px 12px 6px;
   box-shadow: 0 0 6px rgba(33, 33, 33, 0.54); /* #21212133 */
+  background-image: url('gradient_bg.svg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .app-folder-dialog .folder-name-container {
@@ -3415,6 +3419,10 @@ StScrollBar StButton#hhandle:active {
 #overviewGroup {
   color: rgba(253, 245, 230, 0.54);
   background-color: rgba(75, 0, 130, 1); /* color de fondo del panel de actividades */
+  background-image: url('gradient_bg.svg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #appMenu {
