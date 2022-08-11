@@ -1,11 +1,10 @@
-/* Voozee theme for Gnome 42.*^
+# Voozee theme for Gnome 42.*^
 # Version: 1.0.1
 # Customization by Spellmell
 # spellmell.github.io
 # spellmell@protonmail.com
 # 7/25/2022
 # https://github.com/spellmell/voozee_gnome_theme
-*/
 
 Este theme fue creado a partir del theme default de gnome 42 para fedora.
 Lo he probado en gentoo con gnome 40, y si bien es utilizable,

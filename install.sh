@@ -1,6 +1,6 @@
 #! /bin/bash
 
-# Voozee (tomato) theme for Gnome 42.*^
+# Voozee theme for Gnome 42.*^
 # Version: 1.0.1
 # Customization by Spellmell
 # spellmell.github.io
