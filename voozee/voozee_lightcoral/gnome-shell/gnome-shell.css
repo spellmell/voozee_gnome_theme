@@ -1,4 +1,4 @@
-/* Voozee (Indigo) theme for Gnome 42.*^
+/* Voozee (LightCoral) theme for Gnome 42.*^
 # Version: 1.0.1
 # Customization by Spellmell
 # spellmell.github.io
@@ -43,7 +43,7 @@ stage {
   width: 48px;
   height: 48px;
   border-radius: 72px;
-  background-color: rgba(75, 0, 130, 0.75);
+  background-color: rgba(240, 128, 128, 0.75);
   box-shadow: 0 0 6px rgba(33, 33, 33, 0.54); /* #21212133 */
 }
 
@@ -52,7 +52,7 @@ stage {
   height: 60px;
   -pie-border-width: 3px;
   -pie-border-color: rgba(253, 245, 230, 0.54);
-  -pie-background-color: rgba(75, 0, 130, 1);
+  -pie-background-color: rgba(240, 128, 128, 1);
 }
 
 .magnifier-zoom-region {
@@ -109,7 +109,7 @@ stage {
 .app-well-app:checked .overview-icon,
 .grid-search-result:active .overview-icon,
 .grid-search-result:checked .overview-icon {
-  background-color: rgba(75, 0, 130, 1);
+  background-color: rgba(240, 128, 128, 1);
   box-shadow: none;
 }
 
@@ -140,7 +140,7 @@ stage {
   border-radius: 6px;
   padding: 12px;
   color: rgba(253, 245, 230, 0.54); /* oldlace alfa */
-  background-color: rgba(75, 0, 130, 1);
+  background-color: rgba(240, 128, 128, 1);
   border: solid 3px rgba(253, 245, 230, 0.54);
   border-radius: 18px 6px 12px 6px;
   box-shadow: 0 0 6px rgba(33, 33, 33, 0.54); /* #21212133 */
@@ -232,7 +232,7 @@ StWidget.focused .app-well-app-running-dot {
 .app-menu,
 .app-well-menu {
   max-width: 27.25em;
-  background-color: rgba(75, 0, 130, 1);
+  background-color: rgba(240, 128, 128, 1);
 }
 
 .rename-folder-popup .rename-folder-popup-item {
@@ -292,7 +292,7 @@ StWidget.focused .app-well-app-running-dot {
 
 .hotplug-notification-item:hover {
   color: rgba(253, 245, 230, 0.54);
-  background-color: rgba(75, 0, 130, 1); /* boton abrir con para unidades insertadas */
+  background-color: rgba(240, 128, 128, 1); /* boton abrir con para unidades insertadas */
   box-shadow: none !important;
 }
 
@@ -390,7 +390,7 @@ StWidget.focused .app-well-app-running-dot {
 .weather-button:focus,
 .events-button:focus {
   color: rgba(253, 245, 230, 0.54);
-  background-color: rgba(75, 0, 130, 1);
+  background-color: rgba(240, 128, 128, 1);
   border-radius: 6px;
   border: none;
   box-shadow: none;
@@ -559,7 +559,7 @@ StWidget.focused .app-well-app-running-dot {
 .calendar .calendar-day-base:hover,
 .calendar .calendar-day-base:focus {
   color: rgba(253, 245, 230, 0.54);
-  background-color: rgba(75, 0, 130, 1);
+  background-color: rgba(240, 128, 128, 1);
 }
 
 .calendar .calendar-day-base:active,
@@ -571,7 +571,7 @@ StWidget.focused .app-well-app-running-dot {
 
 .calendar .calendar-day-base.calendar-day-heading {
   margin-top: 1em;
-  color: rgba(75, 0, 130, 1);
+  color: rgba(240, 128, 128, 1);
   font-size: 10pt;
 }
 
@@ -588,7 +588,7 @@ StWidget.focused .app-well-app-running-dot {
 }
 
 .calendar .calendar-nonwork-day {
-  color: rgba(75, 0, 130, 1);
+  color: rgba(240, 128, 128, 1);
   font-weight: bold;
 }
 
@@ -643,7 +643,7 @@ StWidget.focused .app-well-app-running-dot {
   padding: 0 0;
   border-radius: 6px;
   background-color: rgba(242, 205, 205, 0.04);
-  color: rgba(75, 0, 130, 1);
+  color: rgba(240, 128, 128, 1);
   font-size: inherit;
   font-weight: bold;
   text-align: center;
@@ -827,7 +827,7 @@ StWidget.focused .app-well-app-running-dot {
   padding: 6px 12px;
   text-align: center;
   color: rgba(253, 245, 230, 0.54);
-  background-color: rgba(75, 0, 130, 1);
+  background-color: rgba(240, 128, 128, 1);
   border: 3px solid px rgba(253, 245, 230, 0.54);
   border-radius: 18px 6px 12px 6px;
   box-shadow: 0 0 6px rgba(33, 33, 33, 0.54); /* #21212133 */
@@ -839,7 +839,7 @@ StWidget.focused .app-well-app-running-dot {
 .candidate-popup-content,
 .modal-dialog {
   color:rgba(253, 245, 230, 0.54);
-  background-color: rgba(75, 0, 130, 1);
+  background-color: rgba(240, 128, 128, 1);
   border: 3px solid rgba(253, 245, 230, 0.54);
   border-radius: 6px;
   box-shadow: 0 0 6px rgba(33, 33, 33, 0.54); /* #21212133 */
@@ -848,7 +848,7 @@ StWidget.focused .app-well-app-running-dot {
 
 .modal-dialog-linked-button:last-child { /* boton confirmar apagar */
   color: rgba(253, 245, 230, 0.54);
-  background-color: rgba(75, 0, 130, 1);
+  background-color: rgba(240, 128, 128, 1);
 }
 
 .modal-dialog-linked-button:hover:last-child {
@@ -863,7 +863,7 @@ StWidget.focused .app-well-app-running-dot {
 
 .modal-dialog-linked-button:insensitive:last-child {
   color: rgba(224, 224, 224, 0.35);
-  background-color: rgba(75, 0, 130, 1);
+  background-color: rgba(240, 128, 128, 1);
 }
 
 .headline {
@@ -1379,7 +1379,7 @@ StEntry StLabel.hint-text,
 
 /* Login Dialog */
 #lockDialogGroup {
-  background-color: rgba(75, 0, 130, 1);
+  background-color: rgba(240, 128, 128, 1);
 }
 
 .login-dialog-banner-view {
@@ -1824,7 +1824,7 @@ StEntry StLabel.hint-text,
   padding: 0 12px;
   text-shadow: none;
   border-radius: 6px;
-  border:solid 1px rgba(75, 0, 130, 0.25); /* borde rgba(75, 0, 130, 1) de notificaciones */
+  border:solid 1px rgba(240, 128, 128, 0.25); /* borde rgba(240, 128, 128, 1) de notificaciones */
   background-color: rgba(20, 36, 36, 0.75);
 }
 
@@ -1848,7 +1848,7 @@ StEntry StLabel.hint-text,
   padding: 0 18px;
   spacing: 12px;
   border-radius: 6px;
-  background-color:rgba(75, 0, 130, 1);
+  background-color:rgba(240, 128, 128, 1);
 }
 
 .message {
@@ -1914,7 +1914,7 @@ StEntry StLabel.hint-text,
   padding: 6px;
   margin-bottom: 4px;
   spacing: 4px;
-  color: rgba(75, 0, 130, 1);
+  color: rgba(240, 128, 128, 1);
 }
 
 .message .message-close-button {
@@ -1929,12 +1929,12 @@ StEntry StLabel.hint-text,
 .message .message-close-button:hover,
 .message .message-close-button:active {
   color: rgba(253, 245, 230, 0.54);
-  background-color: rgba(75, 0, 130, 1);
+  background-color: rgba(240, 128, 128, 1);
 }
 
 .message .message-close-button:hover,
 .message .message-close-button:focus {
-  color:  rgba(75, 0, 130, 1);
+  color:  rgba(240, 128, 128, 1);
   background-color: rgba(253, 245, 230, 0.54);
 }
 
@@ -2151,7 +2151,7 @@ StEntry StLabel.hint-text,
 }
 
 .no-networks-label {
-  color: rgba(75, 0, 130, 1);
+  color: rgba(240, 128, 128, 1);
 }
 
 .no-networks-box {
@@ -2284,7 +2284,7 @@ StEntry StLabel.hint-text,
 .chat-meta-message {
   padding-left: 4px;
   font-size: 9pt;
-  color: rgba(75, 0, 130, 1);
+  color: rgba(240, 128, 128, 1);
 }
 
 .chat-meta-message:rtl {
@@ -2398,14 +2398,14 @@ StEntry StLabel.hint-text,
   transition-duration: 150ms;
   border-radius: 18px 6px 12px 6px;
   text-shadow: none;
-  /* border: solid 2px rgba(153, 50, 204, 0.18); */
-  background-color: rgba(75, 0, 130, 1);
+  /* border: solid 2px rgba(253, 245, 230, 0.18); */
+  background-color: rgba(240, 128, 128, 1);
 }
 
 #panel .panel-button.clock-display .clock {
   transition-duration: 150ms;
   border-radius: 18px 6px 12px 6px;
-  background-color: rgba(75, 0, 130, 0); /* KK RELOJ */
+  background-color: rgba(240, 128, 128, 0); /* KK RELOJ */
 }
 
 #panel .panel-button:hover {
@@ -2443,7 +2443,7 @@ StEntry StLabel.hint-text,
 #panel .panel-button:focus .panel-button,
 #panel .panel-button:checked .panel-button {
   color: rgba(253, 245, 230, 0.54);
-  background-color:rgba(75, 0, 130, 1);
+  background-color:rgba(240, 128, 128, 1);
 }
 
 #panel .panel-button:active .panel-button:hover,
@@ -2451,7 +2451,7 @@ StEntry StLabel.hint-text,
 #panel .panel-button:focus .panel-button:hover,
 #panel .panel-button:checked .panel-button:hover {
   color: rgba(253, 245, 230, 0.54);
-  background-color:rgba(75, 0, 130, 1);
+  background-color:rgba(240, 128, 128, 1);
 }
 
 #panel .panel-button:active .panel-button:active,
@@ -2471,7 +2471,7 @@ StEntry StLabel.hint-text,
 #panel .panel-button:checked .panel-button:focus,
 #panel .panel-button:checked .panel-button:checked {
   color: rgba(253, 245, 230, 0.54);
-  background-color:rgba(75, 0, 130, 1);
+  background-color:rgba(240, 128, 128, 1);
 }
 
 #panel .panel-button:active.clock-display,
@@ -2694,7 +2694,7 @@ StEntry StLabel.hint-text,
   text-shadow: 0 0 1px rgba(33, 33, 33, 0.2); /* #21212133 */
   border-radius: 9px 18px 6px 6px;
   /* border: solid 1px rgba(253, 245, 230, 0.54);
-  background-color: rgba(75, 0, 130, 1);
+  background-color: rgba(240, 128, 128, 1);
   box-shadow: 0 0 6px rgba(33, 33, 33, 0.2); */
 }
 
@@ -2735,7 +2735,7 @@ StEntry StLabel.hint-text,
   margin: 6px;
   padding: 6px;
   color: rgba(253, 245, 230, 0.54) !important;
-  background-color: rgba(75, 0, 130, 1) !important;
+  background-color: rgba(240, 128, 128, 1) !important;
 }
 
 .popup-menu .popup-menu-item:checked:active {
@@ -2755,7 +2755,7 @@ StEntry StLabel.hint-text,
 .popup-menu .popup-menu-item:hover,
 .popup-menu .popup-menu-item.selected {
   color: rgba(253, 245, 230, 0.54) !important;
-  background-color: rgba(75, 0, 130, 1) !important; /* menus buttons hover background-color */
+  background-color: rgba(240, 128, 128, 1) !important; /* menus buttons hover background-color */
   text-shadow: 0 0 3px rgba(33, 33, 33, 0.36);
   transition-duration: 0;
 }
@@ -2968,7 +2968,7 @@ StScrollBar StButton#hhandle {
 
 StScrollBar StButton#vhandle:hover,
 StScrollBar StButton#hhandle:hover {
-  background-color: rgba(75, 0, 130, 1);
+  background-color: rgba(240, 128, 128, 1);
 }
 
 StScrollBar StButton#vhandle:active,
@@ -3068,7 +3068,7 @@ StScrollBar StButton#hhandle:active {
 .list-search-result:selected,
 .search-provider-icon:selected {
   color: rgba(253, 245, 230, 0.54);
-  background-color: rgba(75, 0, 130, 1);
+  background-color: rgba(240, 128, 128, 1);
   transition-duration: 200ms;
 }
 
@@ -3077,7 +3077,7 @@ StScrollBar StButton#hhandle:active {
 .list-search-result:checked,
 .search-provider-icon:checked {
   color: rgba(253, 245, 230, 0.54);
-  background-color: rgba(75, 0, 130, 1);
+  background-color: rgba(240, 128, 128, 1);
 }
 
 #searchResultsContent {
@@ -3114,7 +3114,7 @@ StScrollBar StButton#hhandle:active {
 .search-statustext {
   font-size: 2em;
   font-weight: bold;
-  color: rgba(75, 0, 130, 1);
+  color: rgba(240, 128, 128, 1);
 }
 
 .grid-search-results {
@@ -3192,12 +3192,12 @@ StScrollBar StButton#hhandle:active {
 
 .switcher-list .item-box:outlined {
   color: rgba(253, 245, 230, 0.54);
-  background-color: rgba(75, 0, 130, 1);
+  background-color: rgba(240, 128, 128, 1);
 }
 
 .switcher-list .item-box:selected {
   color: rgba(253, 245, 230, 0.54);
-  background-color: rgba(75, 0, 130, 1);
+  background-color: rgba(240, 128, 128, 1);
 }
 
 .switcher-list .thumbnail-box {
@@ -3377,7 +3377,7 @@ StScrollBar StButton#hhandle:active {
 
 #dash .overview-icon {
   padding: 5px;
-  /* background-color: rgba(75, 0, 130, 1); */
+  /* background-color: rgba(240, 128, 128, 1); */
 }
 
 /* NOTE: */
@@ -3398,7 +3398,7 @@ StScrollBar StButton#hhandle:active {
 .dash-separator {
   width: 1px;
   margin: 0 7px 16px;
-  background-color: rgba(75, 0, 130, 1);
+  background-color: rgba(240, 128, 128, 1);
 }
 
 .workspace-animation {
@@ -3418,7 +3418,7 @@ StScrollBar StButton#hhandle:active {
 /* panel de actividades */
 #overviewGroup {
   color: rgba(253, 245, 230, 0.54);
-  background-color: rgba(75, 0, 130, 1); /* color de fondo del panel de actividades */
+  background-color: rgba(240, 128, 128, 1); /* color de fondo del panel de actividades */
   background-image: url('gradient_bg.svg');
   background-position: center;
   background-repeat: no-repeat;
@@ -3454,7 +3454,7 @@ StScrollBar StButton#hhandle:active {
   margin: 18px;
   margin-top:6px;
   padding: 6px;
-  background-color: rgba(75, 0, 130, 1);
+  background-color: rgba(240, 128, 128, 1);
   border: solid 1px rgba(253, 245, 230, 0.54);
 }
 
@@ -3471,7 +3471,7 @@ StScrollBar StButton#hhandle:active {
   height: 16px;
   margin: 18px;
   padding: 6px;
-  background-color: rgba(75, 0, 130, 1);
+  background-color: rgba(240, 128, 128, 1);
 }
 
 .aggregate-menu .popup-sub-menu .popup-menu-item > :first-child:ltr {
@@ -3496,7 +3496,7 @@ StScrollBar StButton#hhandle:active {
 .window-caption { /* etiqueta de los programas abiertos */
   padding: 6px 12px;
   color: rgba(253, 245, 230, 0.54);
-  background-color: rgba(75, 0, 130, 1);
+  background-color: rgba(240, 128, 128, 1);
   border-radius: 18px 6px 12px 6px;
   border:solid 3px rgba(253, 245, 230, 0.54);
   box-shadow: 0 0 6px rgba(33, 33, 33, 0.54); /* #21212133 */
