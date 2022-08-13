@@ -6,6 +6,7 @@
 # spellmell.github.io
 # spellmell@protonmail.com
 # 7/25/2022
+# https://github.com/spellmell/voozee_gnome_theme
 
 THEME=voozee_tomato
 ROUTE=~/.themes
